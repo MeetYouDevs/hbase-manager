@@ -1,0 +1,27 @@
+server:
+  port: 250
+  address: 0.0.0.0
+
+#mysql配置项
+spring:
+  datasource:
+    url: jdbc:mysql://mysql-ip:mysql-port/hbase-manager?useUnicode=true&characterEncoding=UTF-8&rewriteBatchedStatements=true
+    username: 
+    password: 
+    driver-class-name: com.mysql.jdbc.Driver
+
+  mvc:
+    favicon:
+      enabled: false
+    #view.prefix=/view/
+    #view.suffix=.html
+
+  freemarker:
+    allow-request-override: false
+    cache: true
+    check-template-location: true
+    charset: UTF-8
+    content-type: text/html
+    requestContextAttribute: request
+    settings: 
+      number_format: 0.##
