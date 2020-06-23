@@ -74,28 +74,28 @@ According to the configuration file (application.yml), enter the console address
 
 ### 2 Table Management
 
-![table](/docs/img/table.png)
+![table](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/table.png)
 
 ### 3 Data View
 
-![data-view](/docs/img/data-view.png)
+![data-view](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/data-view.png)
 
 ### 4 Table Snapshot
 
-![snapshot](/docs/img/snapshot.png)
+![snapshot](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/snapshot.png)
 
 ### 5 Table Migration
 
-![migration](/docs/img/migration.png)
+![migration](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/migration.png)
 NOTE: before configure the migration task, you should add an agent machine under the module named `RunCluster`.
 
 ### 6 Table Replication
 
-![replication](/docs/img/replication.png)
+![replication](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/replication.png)
 
 ### 7 Table Statistics
 
-![stat](/docs/img/stat.png)
+![stat](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/stat.png)
 
 ### 8 System Management
 System integration simple user, permission management (Based on Apache Shrio), permission control through the service URL.
