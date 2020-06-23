@@ -68,33 +68,33 @@ HBase Manager
 
 ### 1 集群管理
 
-![cluster](/docs/img/cluster.png)
+![cluster](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/cluster.png)
 
 ### 2 表管理
 
-![table](/docs/img/table.png)
+![table](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/table.png)
 
 
 ### 3 数据预览
 
-![data-view](/docs/img/data-view.png)
+![data-view](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/data-view.png)
 
 ### 4 数据快照
 
-![snapshot](/docs/img/snapshot.png)
+![snapshot](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/snapshot.png)
 
 ### 5 数据迁移
 
-![migration](/docs/img/migration.png)
+![migration](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/migration.png)
 备注：配置迁移任务前，需在RunCluster模块中添加任务运行的代理机。
 
 ### 6 数据同步
 
-![replication](/docs/img/replication.png)
+![replication](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/replication.png)
 
 ### 7 数据统计
 
-![stat](/docs/img/stat.png)
+![stat](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/stat.png)
 
 ### 8 系统管理
 系统集成简单的用户、权限管理（基于shrio），通过服务URL进行权限控制。
