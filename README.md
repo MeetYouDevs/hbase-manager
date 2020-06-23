@@ -68,7 +68,7 @@ HBase Manager
 
 ### 1 集群管理
 
-![cluster](https://github.com/MeetYouDevs/hbase-manager/raw/master/docs/img/cluster.png)
+![cluster](https://raw.githubusercontent.com/MeetYouDevs/hbase-manager/master/docs/img/cluster.png)
 
 ### 2 表管理
 
