@@ -13,7 +13,7 @@
 		<spring.boot.version>2.0.0.RELEASE</spring.boot.version>
 		<fastjson.version>1.2.32</fastjson.version>
 		<hbase.version>1.2.0-cdh5.11.1</hbase.version>
-		<jsoup.version>1.8.3</jsoup.version>
+		<jsoup.version>1.15.3</jsoup.version>
 		<ganymed.ssh2.version>262</ganymed.ssh2.version>
 		<hadoop.cdh.version>2.6.0-cdh5.11.1</hadoop.cdh.version>
 		<quartz.version>2.3.0</quartz.version>
